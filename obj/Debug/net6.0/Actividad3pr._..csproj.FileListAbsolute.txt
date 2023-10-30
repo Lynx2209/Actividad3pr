@@ -1,0 +1,14 @@
+C:\Users\Jose Luis\source\repos\Actividad3pr._\bin\Debug\net6.0\Actividad3pr._..exe
+C:\Users\Jose Luis\source\repos\Actividad3pr._\bin\Debug\net6.0\Actividad3pr._..deps.json
+C:\Users\Jose Luis\source\repos\Actividad3pr._\bin\Debug\net6.0\Actividad3pr._..runtimeconfig.json
+C:\Users\Jose Luis\source\repos\Actividad3pr._\bin\Debug\net6.0\Actividad3pr._..dll
+C:\Users\Jose Luis\source\repos\Actividad3pr._\bin\Debug\net6.0\Actividad3pr._..pdb
+C:\Users\Jose Luis\source\repos\Actividad3pr._\obj\Debug\net6.0\Actividad3pr._..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Luis\source\repos\Actividad3pr._\obj\Debug\net6.0\Actividad3pr._..AssemblyInfoInputs.cache
+C:\Users\Jose Luis\source\repos\Actividad3pr._\obj\Debug\net6.0\Actividad3pr._..AssemblyInfo.cs
+C:\Users\Jose Luis\source\repos\Actividad3pr._\obj\Debug\net6.0\Actividad3pr._..csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis\source\repos\Actividad3pr._\obj\Debug\net6.0\Actividad3pr._..dll
+C:\Users\Jose Luis\source\repos\Actividad3pr._\obj\Debug\net6.0\refint\Actividad3pr._..dll
+C:\Users\Jose Luis\source\repos\Actividad3pr._\obj\Debug\net6.0\Actividad3pr._..pdb
+C:\Users\Jose Luis\source\repos\Actividad3pr._\obj\Debug\net6.0\Actividad3pr._..genruntimeconfig.cache
+C:\Users\Jose Luis\source\repos\Actividad3pr._\obj\Debug\net6.0\ref\Actividad3pr._..dll
